@@ -5,6 +5,8 @@ There is no shortage of housed data, data repositories online, and lists of data
 
 1. Repositories/Search
  
+  - Google Dataset Search: https://toolbox.google.com/datasetsearch
+  - Kaggle Data Sets: https://www.kaggle.com/datasets
   - AWS Datasets: https://aws.amazon.com/datasets/
   - Buzzfeed Datasets: https://github.com/BuzzFeedNews
   - Common Crawl: http://commoncrawl.org
@@ -15,10 +17,8 @@ There is no shortage of housed data, data repositories online, and lists of data
   - Enigma Public: https://public.enigma.com
   - FiveThirtyEight: https://data.fivethirtyeight.com
   - Github Awesome Public Datasets: https://github.com/caesar0301/awesome-public-datasets
-  - Google Dataset Search: https://toolbox.google.com/datasetsearch
   - Harvard Dataverse: https://dataverse.harvard.edu
   - Inter-university Consortium for Political and Social Research (ICPSR): https://www.icpsr.umich.edu/icpsrweb/
-  - Kaggle Data Sets: https://www.kaggle.com/datasets
   - KD Nuggets List: http://www.kdnuggets.com/datasets/index.html
   - MSFT Research Open Data sets: https://www.microsoft.com/en-us/research/academic-program/data-science-at-microsoft-research/
   - Open Data Certificate: https://certificates.theodi.org/en/datasets
